@@ -1,4 +1,4 @@
-![Project Logo Here](https://github.com/GBR-Inshore-Monitoring/.github/blob/main/logo/Inshore_monitoring_logo.png)
+![Project Logo Here](https://github.com/GBR-Inshore-Monitoring/.github/blob/main/logo/GBIM2.png)
 
 
 # Welcome to the GitHub pages for the Great Barrier Reef inshore monitoring project
